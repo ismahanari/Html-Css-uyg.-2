@@ -53,7 +53,7 @@ img{
 
 /*500 PX DEN DAHA KÜÇÜK EKRANLAR İÇİN */
 @media screen and (max-width: 500px){
-    [class*="col-*"]{width:100% ;}
+    [class*="col-*"]{width:50% ;}
 }
 
 
